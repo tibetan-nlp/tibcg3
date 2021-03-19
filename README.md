@@ -1,4 +1,5 @@
-# TIBCG3 
+# tibcg3
+ 
 In this repository, we host some constraint grammars for processing Tibetan text.
 
 To compile: ```cg-comp filename.txt filename.cg```
